@@ -1,0 +1,6 @@
+.screen{
+    display: flex;
+    justify-content: space-between;
+    padding:50px;
+    background-color: #fafbfc;
+}

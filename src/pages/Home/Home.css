@@ -1,0 +1,24 @@
+  .content {
+      text-align: center;
+      font-size: 70px;
+      line-height: 30px;
+  }
+
+  .buttonContainer {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      justify-items: center;
+  }
+
+  .buttontext {
+      color: white;
+      font-size: 16px;
+      font-weight: bold;
+  }
+  .button {
+      background-color: #3F50B5;
+      border-width: 0px;
+      border-radius: 8px;
+      padding: 0px 20px 0px 20px
+  }

@@ -1,0 +1,39 @@
+.cartRoot {
+    padding: 30%;
+}
+
+.cartBox{
+    background-color: white;
+    border-radius: 12px;
+    padding: 12px;
+}
+
+.itemCart{
+    display: flex;
+}
+
+.itemQuantity{
+    margin-left: 24px;
+}
+
+.savebuttonroot{
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 16px;
+}
+
+.saveButton{
+    background-color: #3F50B5;
+    margin-bottom: 8px;
+    border-radius: 6px;
+    padding: 0px 12px 0px 12px;
+}
+
+.saveText{
+    color: white;
+}
+
+.cancelText{
+    color:#3F50B5 ;
+    margin-left: 12px;
+}

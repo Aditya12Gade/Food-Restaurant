@@ -1,0 +1,50 @@
+
+.box {
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    line-height: 4px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 1px 1px 1px 1px grey;
+}
+
+.img { 
+    height: 150px;
+    width: 300px;
+    border-radius: 8px 8px 0px 0px;
+}
+
+.price {
+    padding-left: 16px;
+}
+
+.name{
+    font-size: 28px;
+    font-weight: bold;
+    padding-left: 16px;
+}
+
+.plusminus{
+    display: flex;
+    margin-left: 16px;
+    margin-bottom: 16px;
+}
+
+.plus{
+    width: 40px;
+    height: 40px;
+    background-color: #3F50B5;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.minus{
+    width: 40px;
+    height: 40px;
+    background-color: #F50157;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 8px;
+}
